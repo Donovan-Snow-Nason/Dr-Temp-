@@ -4,13 +4,28 @@ included in the Repository :
 ----------------------------
 
 -------
+DESIGNS
+-------
+   * Logo Design
+   * Banners Designs
+   * Cover Designs
+   * Icon Designs
+   * Business Cards
+   * Pamphlet Designs
+   * Product Designs
+   * AD Designs
+   * T-Shirt Designs
+   * Hat-Designs
+   * Brochure Designs
+   * Sticker Designs
+   * FaceBook Page Designs  
+   * Twitter Page design
+   * Linkedin Design
+   * YOuTube Design
+
+-------
 WEBSITE
 -------
-  * Designs
-    * Logo Design
-    * Banners Designs
-    * Cover Designs
-    * Icon Designs
   * Pages
     * Admin Log In
     * Customer Log in
