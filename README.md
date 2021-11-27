@@ -1,12 +1,15 @@
-# Dr Temp 
+# [ Dr Temp ] -- Name of the Company organazation 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 included in the Repository :
 ----------------------------
+ 
+ {<!--- I wanted to quikly just add a note this repo project is a work in progress updates to the System will be added periodically --->}
+
 
 -------
 DESIGNS
 -------
-   * Logo Design
+   * Logo Design 
    * Banners Designs
    * Cover Designs
    * Icon Designs
